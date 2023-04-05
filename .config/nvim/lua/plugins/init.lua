@@ -1,0 +1,5 @@
+require("plugins.nvimtree")
+require("plugins.window")
+require("plugins.telescope")
+require("plugins.treesitter")
+require("plugins.lsp")
